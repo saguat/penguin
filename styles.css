@@ -271,7 +271,7 @@ body {
   position: relative;
   z-index: 4;
   bottom: -15vh;
-  transform: translateX(-10vw);
+  transform: translateX(-300px);
   animation: navigate 30s linear infinite;
 }
 
@@ -299,7 +299,7 @@ body {
 
 @keyframes navigate {
   50% {
-    transform: translateX(90vw);
+    transform: translateX(100vw);
   }
 }
 
