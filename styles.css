@@ -299,7 +299,7 @@ body {
 
 @keyframes navigate {
   50% {
-    transform: translateX(80vw);
+    transform: translateX(90vw);
   }
 }
 
